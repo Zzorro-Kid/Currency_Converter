@@ -22,11 +22,11 @@ A simple converter written in C. It allows you to quickly convert values between
 
   1. Clone or download this repository:
  
-    git clone https://github.com/Zzorro-Kid/currency-converter-c.git
+    git clone https://github.com/Zzorro-Kid/Currency_Converter.git
 
   2. Navigate to the project directory:
 
-    cd simple-converter-c
+    cd Currency_Converter
     
   3. Compile the source code:
 
