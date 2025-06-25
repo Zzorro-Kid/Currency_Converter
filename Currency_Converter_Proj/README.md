@@ -20,7 +20,7 @@ A simple converter written in C. It allows you to quickly convert values between
  
 # 🚀 Running
 
-  1. Clone or download** this repository:
+  1. Clone or download this repository:
  
     git clone https://github.com/Zzorro-Kid/currency-converter-c.git
 
