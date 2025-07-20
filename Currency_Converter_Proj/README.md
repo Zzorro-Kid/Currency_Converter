@@ -1,6 +1,6 @@
 # Currency Converter 
 
-A simple converter written in C. It allows you to quickly convert values between a few predefined pairs of currencies or units of measurement. 
+A simple converter written in. It allows to quickly convert values between a few predefined pairs of currencies or units of measurement
 
 
 # 📦 Features
@@ -14,8 +14,8 @@ A simple converter written in C. It allows you to quickly convert values between
 
 # 🔧 Prerequisites
 
- - C compiler (e.g., GCC)
- - Linux kernel (most distributions ship with inotify support built in)
+ - C++ compiler (e.g., g++)
+ - Linux system 
 
  
 # 🚀 Running
@@ -30,7 +30,7 @@ A simple converter written in C. It allows you to quickly convert values between
     
   3. Compile the source code:
 
-    gcc main.c -o converter
+    g++ main.cpp -o converter
 
   4. Run the program:
 
